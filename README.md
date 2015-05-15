@@ -1,6 +1,13 @@
 # Documentation
 This repository contains the documentation of Social Library
 
+## Vocabulary
+- Application: The project Social Library can be named as application or web site in the documentation of the project.
+- Media type: A media type is a category of an object such as DVDs, Books, Money...
+- Object: an object is like in the real world a simple object like a coin, a book, a DVD, a picture...
+- User: An user is someone registered on Social Library.
+- Web site: see "Application".
+
 ## Specifications
 
 ### User
