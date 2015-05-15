@@ -13,9 +13,7 @@ This repository contains the documentation of Social Library
 ### Media
 + EXI_MEDIA_001: An object has a name, a creator and a picture.
 + EXI_MEDIA_002: If no picture is submitted, then the default media one is displayed.
-+ EXI_MEDIA_003: Each kind of media defines the name of an object
-	for example: DVD --> title + subtitle
-				 Manga --> serie title + volume number + volume title
++ EXI_MEDIA_003: Each kind of media defines the name of an object (for example: DVD --> title + subtitle; Manga --> serie title + volume number + volume title)
 + EXI_MEDIA_004: All objects of all medias are visible to everyone, registered on the web site or not.
 + EXI_MEDIA_005: Each object can have one or multiple owners.
 
