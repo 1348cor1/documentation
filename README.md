@@ -1,5 +1,5 @@
 # Documentation
-This repository contains the documentation of Social Library
+This repository contains the documentation of [Social Library](https://github.com/sociallibrary/social-library)
 
 ## Vocabulary
 - Application: The project Social Library can be named as application or web site in the documentation of the project.
